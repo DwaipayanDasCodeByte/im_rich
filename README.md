@@ -2,8 +2,8 @@
 
 A simple "I Am Rich" application built with Flutter. This project is a classic beginner's exercise to demonstrate the basic setup and core widgets of the Flutter framework.
 
-# Note - #open the lib folder to find the main.dart file which contains the actual source code and the images are in the directory named as 'image'.
-# Make sure to download a virtual device or you can also use a physical device for usb debugging to run the application from the Android Studio.
+ Note - #open the lib folder to find the main.dart file which contains the actual source code and the images are in the directory named as 'image'.
+ Make sure to download a virtual device or you can also use a physical device for usb debugging to run the application from the Android Studio.
 # Must install NDK(side by side) and other necessary frame works 
     'flutter doctor'
     'flutter upgrade'
